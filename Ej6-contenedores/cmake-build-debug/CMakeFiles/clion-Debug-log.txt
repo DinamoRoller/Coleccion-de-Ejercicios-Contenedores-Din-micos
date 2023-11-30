@@ -1,0 +1,14 @@
+"C:\Users\suren\AppData\Local\Programs\CLion 2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/suren/AppData/Local/Programs/CLion 2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\suren\CLionProjects\Ej6-contenedores -B C:\Users\suren\CLionProjects\Ej6-contenedores\cmake-build-debug
+CMake Error at CMakeLists.txt:6 (set):
+  Syntax error in cmake code at
+
+    C:/Users/suren/CLionProjects/Ej6-contenedores/CMakeLists.txt:6
+
+  when parsing string
+
+    C:/Users/suren/AppData\Roaming/Microsoft/Windows/Start Menu/Programs/JetBrains Toolbox/boost_1_83_0
+
+  Invalid character escape '\R'.
+
+
+-- Configuring incomplete, errors occurred!
