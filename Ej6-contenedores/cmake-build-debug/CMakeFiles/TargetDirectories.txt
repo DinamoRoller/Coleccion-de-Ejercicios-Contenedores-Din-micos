@@ -1,2 +1,0 @@
-C:/Users/suren/CLionProjects/Ej6-contenedores/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/suren/CLionProjects/Ej6-contenedores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
