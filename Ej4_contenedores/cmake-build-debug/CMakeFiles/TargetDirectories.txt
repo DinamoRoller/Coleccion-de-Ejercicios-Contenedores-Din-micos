@@ -1,0 +1,3 @@
+C:/Users/suren/CLionProjects/Ej4_contenedores/cmake-build-debug/CMakeFiles/Ej4_contenedores.dir
+C:/Users/suren/CLionProjects/Ej4_contenedores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/suren/CLionProjects/Ej4_contenedores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
